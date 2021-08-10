@@ -1,12 +1,9 @@
-# Auto-Switch-V2
-Program a Cisco-Switch with a spreadsheet, and then walkaway to take care of other things: while Auto-Switch automates the work. The program works by automating your keyboard and opening up PuTTY network software.
+# Auto-Switch-V3
+Program many Cisco-Switch with a SQLite .db file, and then walkaway to take care of other things: while Auto-Switch automates the work. The program works by automating your keyboard and opening up PuTTY network software.
 
 ## Getting Started
 The first thing you will need is the software PuTTY. Auto-Switch works by automating PuTTY and the Cisco switch language. 
 After installing PuTTY, then  place the PuTTY software to your <a href="https://docs.telerik.com/teststudio/features/test-runners/add-path-environment-variables" title="PATH">global PATH</a>!
-
-Auto-Switch can now run out of the gate perfectly as is. It is now up to you how you want to set up your CSV database.
-This repo will come a pre-set templet CSV file of pre-set date. You can then edit the file to your ideal setup. 
 
 ## COM Edit
 In order to gane access to a Cisco terminal serial, you must have the correct COM number inputed. 
