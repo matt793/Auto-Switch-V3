@@ -1,5 +1,5 @@
 # Auto-Switch-V3
-Program many Cisco-Switch with a SQLite .db file, and then walkaway to take care of other things: while Auto-Switch automates the work. The program works by automating your keyboard and opening up PuTTY network software.
+Program many Cisco-Switch with an SQLite .db file, and then walkaway to take care of other things: while Auto-Switch automates the work. The program works by automating your keyboard and opening up PuTTY network software.
 
 ## Getting Started
 The first thing you will need is the software PuTTY. Auto-Switch works by automating PuTTY and the Cisco switch language. 
