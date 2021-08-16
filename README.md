@@ -8,11 +8,9 @@ After installing PuTTY, then  place the PuTTY software to your <a href="https://
 ## COM Edit
 In order to gane access to a Cisco terminal serial, you must have the correct COM number inputed. 
 Find out what yours is by looking it up in your <a href="https://www.howtogeek.com/697936/5-ways-to-open-device-manager-on-windows-10/" title="Device Manager">Device Manager</a> under your connected <a href="https://pbxbook.com/voip/sputty.html" title="COM">COM port driver</a>.
-After you find the correct COM number, input it into the CSV database cell. You can find the needed cell at column 13, row 2. Example below.
 
 ## Desktop Icon
 The provided Appcation .exe file needs to stay inside the main folder, however, you can create a shortcut to the .exe file by right clicking on it and selecting create shortcut.
-You can then drag the shortcut to your desktop. Example below.
 
 ## Demo 
 Here's a short gif clip of the software automating the PuTTY opening, and some Cisco commands.
