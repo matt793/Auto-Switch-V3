@@ -1,4 +1,4 @@
-
+# Made by Matthew Lopez. Email: matthew_christ@protonmail.com
 # App works in collaboration with Putty network software. 
 # The PyWinAuto module automates windows computers.
 # This next line allows the Python program to open up other softwares automaticly.
@@ -104,7 +104,7 @@ def commands(c1, c2):
 # These next two lines of code make a for loop with in a for loop. 
 # This makes the program select the correct column and then the correct row
 # in the correct order.        
-for c1 in range(1, 26, 5): # If you added extra rows to the csv file change the #25 up.
+for c1 in range(1, 28, 5): # If you added extra rows to the csv file change the #25 up.
     for c2 in range(1, 13, 1): # If you added extra columns to the csv file change the #11 up.
         commands(c1, c2)
 
